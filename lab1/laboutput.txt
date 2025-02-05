@@ -1,0 +1,51 @@
+test_0 (__main__.lab1a.test_0)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for file creation: ./lab1a.py ... ok
+test_a (__main__.lab1a.test_a)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for errors running: ./lab1a.py ... /usr/lib/python3.12/subprocess.py:822: ResourceWarning: unclosed file <_io.TextIOWrapper name=3 encoding='UTF-8'>
+  _cleanup()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_a1 (__main__.lab1a.test_a1)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test for correct shebang line: ./lab1a.py ... ok
+test_b (__main__.lab1a.test_b)
+[Lab 1] - [Investigation 3] - [Part 2] - printing - Test output for correct output "Hello world": ./lab1a.py ... ok
+test_0 (__main__.lab1b.test_0)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for file creation: ./lab1b.py ... ok
+test_a (__main__.lab1b.test_a)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for errors running: ./lab1b.py ... ok
+test_a1 (__main__.lab1b.test_a1)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct shebang line: ./lab1b.py ... ok
+test_b (__main__.lab1b.test_b)
+[Lab 1] - [Investigation 4] - string objects & printing - Test for correct output "How old are you Isaac?": ./lab1b.py ... ok
+test_0 (__main__.lab1c.test_0)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for file creation: ./lab1c.py ... ok
+test_a (__main__.lab1c.test_a)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for errors running: ./lab1c.py ... ok
+test_a1 (__main__.lab1c.test_a1)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test for correct shebang line: ./lab1c.py ... ok
+test_b (__main__.lab1c.test_b)
+[Lab 1] - [Investigation 4] - integer objects & printing - Test output for correct output "Isaac is 72 years old!": ./lab1c.py ... ok
+test_0 (__main__.lab1d.test_0)
+[Lab 1] - [Investigation 5] - math operators - Test for file creation: ./lab1d.py ... ok
+test_a (__main__.lab1d.test_a)
+[Lab 1] - [Investigation 5] - math operators - Test for errors running: ./lab1d.py ... ok
+test_a1 (__main__.lab1d.test_a1)
+[Lab 1] - [Investigation 5] - math operators - Test for correct shebang line: ./lab1d.py ... ok
+test_b (__main__.lab1d.test_b)
+[Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.157s
+
+OK
+OPS445 Lab Report - System Information for running ./CheckLab1.py
+=================================================================
+    User login name: brroque
+    Git Email: eliasdeeroque@gmail.com
+    Linux system name: brroque-VirtualBox
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Nov  6 2024, 18:32:19) [GCC 13.2.0]
+    OS Platform: linux
+    Working Directory: /home/brroque/ops445/lab1
+    Start at: Tue Jan 21 22:09:13 2025
+=================================================================
