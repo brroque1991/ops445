@@ -1,0 +1,43 @@
+test_0 (__main__.lab6a.test_0)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - Test for file creation: ./lab6a.py ... ok
+test_a (__main__.lab6a.test_a)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating a Class - Test for errors running: ./lab6a.py ... ok
+test_a1 (__main__.lab6a.test_a1)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - Test for correct shebang line: ./lab6a.py ... ok
+test_a_instantiate_class_0 (__main__.lab6a.test_a_instantiate_class_0)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - instantiating object with 0 arguments fails ... ok
+test_a_instantiate_class_1 (__main__.lab6a.test_a_instantiate_class_1)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - instantiating object with 1 arguments fails ... ok
+test_b1_displayStudent (__main__.lab6a.test_b1_displayStudent)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayStudent() provides the correct output ... ok
+test_b2_displayStudent (__main__.lab6a.test_b2_displayStudent)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayStudent() does not fail if self.number is an integer ... ok
+test_c_displayStudent (__main__.lab6a.test_c_displayStudent)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayStudent() does not fail if self.number is an integer ... ok
+test_d_displayGPA (__main__.lab6a.test_d_displayGPA)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayGPA() provides the correct output ... ok
+test_e_displayGPA (__main__.lab6a.test_e_displayGPA)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayGPA() handles ZeroDivisionError successfully ... ok
+test_f_displayGPA (__main__.lab6a.test_f_displayGPA)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayGPA() handles ZeroDivisionError successfully ... ok
+test_g1_displayCourses (__main__.lab6a.test_g1_displayCourses)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayCourses() provides the correct output ... ok
+test_g2_displayCourses (__main__.lab6a.test_g2_displayCourses)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayCourses() provides the correct output ... ok
+test_h_displayCourses (__main__.lab6a.test_h_displayCourses)
+[Lab 6] - [Investigation 1] - [Part 2] - Creating Classes - displayCourses() provides the correct output ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.026s
+
+OK
+OPS445 Lab Report - System Information for running ./CheckLab6.py
+=================================================================
+    User login name: bryanrossroque
+    Linux system name: Bryans-MacBook-Air-2.local
+    Python executable: /Users/bryanrossroque/ops445/.venv/bin/python3
+    Python version: 3126
+    OS Platform: darwin
+    Working Directory: /Users/bryanrossroque/ops445/lab6
+    Start at: Thu Mar  6 19:39:46 2025
+=================================================================
